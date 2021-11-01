@@ -1,0 +1,27 @@
+.footer-bg-color {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.td-none {
+    text-decoration: none;
+}
+
+.login-bg {
+    background-color: #ccc1e1;
+}
+
+.radius {
+    border-radius: 1rem;
+}
+
+.img-ra {
+    border-radius: 1rem 0 0 1rem;
+}
+
+.login-icon {
+    color: #ff6219;
+}
+
+.td-none {
+    text-decoration: none;
+}
